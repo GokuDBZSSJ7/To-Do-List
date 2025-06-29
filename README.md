@@ -1,6 +1,23 @@
-# To-Do-List
+# 📈​​​ ToDoList
 
-Para executar o projeto, entre no visual studio code e baixe a extensão live server, ou apenas abra o index.html.
+Um simples ToDoList que fiz para treinar e aprimorar meus conhecimentos de Javascript.
 
+## 🛠️ Tecnologias Utilizadas
 
-Projeto feito pelo canal GreatStack, o objetivo desse projeto foi instensificar meu aprendizado
+HTML \
+CSS \
+Javascript \
+
+## 🚀 Como Rodar o Projeto
+
+1° - `git clone https://github.com/GokuDBZSSJ7/To-Do-List.git`
+
+2° - `Abra o HTML`
+
+## 💻​ Acesse o projeto que está no Ar!
+
+Link do site: `https://todolist-lucas-baggio.netlify.app/`
+
+## ​📷​ Imagens do Projeto
+
+![Tela do Projeto](./print.jfif)
